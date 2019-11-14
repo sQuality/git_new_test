@@ -1,4 +1,4 @@
 print("Hello!")
 print("--------------")
-print("Hello github!")
+print("and goodby")
 
